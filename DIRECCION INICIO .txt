@@ -1,0 +1,2 @@
+cd /mnt/c/Users/Luis_/Desktop
+cd /mnt/c/Users/Luis_/Desktop/PLATZI
